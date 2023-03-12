@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Tilt+Neon&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    user-select: none;
+}
+
+body {
+    font-family: 'Tilt Neon', cursive;
+}
+
+#logo a {
+    color: black;
+}
+
+#lista {
+    margin: auto;
+    padding-top: 50px;
+    list-style-type: none;
+    width: 60vw;
+}
+
+#lista li {
+    padding-bottom: 10px;
+}
+
+#cimsor {
+    background-color: #dedede;
+    font-size: xx-large;
+    padding: 30px;
+    text-align: center;
+}
+
+#slider {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-family: 'Tilt Neon', cursive;
+    height: 50px;
+    padding: 5px;
+}
+
+#tarto {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+label {
+    margin-left: 5px;
+}
+
+#kerdesek h1 {
+    padding: 20px;
+}
+
+#kerdesek ol {
+    padding: 20px;
+}
+
+#kerdesek ol li {
+    padding: 5px;
+}
+
+#kerdesek img {
+    width: 20vw;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+#helyes {
+    color: green;
+    padding: 20px 0px;
+}
+
+#helytelen {
+    color: red;
+    padding: 20px 0px;
+}
+
+.magyarazo h3 {
+    padding: 20px 0px;
+}
