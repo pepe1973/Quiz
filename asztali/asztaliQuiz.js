@@ -1,5 +1,5 @@
 'use strict';
-import { adatok } from './csharp.js';
+import { adatok } from './asztali.js';
 import { utolsoElem } from '../functions/utolsoElem.js';
 import { magyarazoszoveg } from '../functions/magyarazoSzoveg.js';
 
